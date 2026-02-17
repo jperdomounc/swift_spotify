@@ -33,6 +33,10 @@ struct ContentView: View {
                 SongInfo()
                 
                 MusicScroll()
+                
+                playback()
+                
+                bottomButtons()
                 Spacer()
                 
             }
